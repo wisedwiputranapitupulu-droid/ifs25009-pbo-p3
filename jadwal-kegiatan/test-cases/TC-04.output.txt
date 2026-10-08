@@ -1,0 +1,54 @@
+Daftar Kegiatan:
+- Data kegiatan belum tersedia!
+Menu:
+1. Tambah Kegiatan
+2. Ubah
+3. Cari
+4. Urutkan
+5. Hapus
+x. Keluar
+Pilih : 
+[!] Pilihan tidak dimengerti.
+
+Daftar Kegiatan:
+- Data kegiatan belum tersedia!
+Menu:
+1. Tambah Kegiatan
+2. Ubah
+3. Cari
+4. Urutkan
+5. Hapus
+x. Keluar
+Pilih : 
+[Menghapus Kegiatan]
+[ID Kegiatan] yang dihapus (x Jika Batal) : [!] ID tidak valid!
+
+Daftar Kegiatan:
+- Data kegiatan belum tersedia!
+Menu:
+1. Tambah Kegiatan
+2. Ubah
+3. Cari
+4. Urutkan
+5. Hapus
+x. Keluar
+Pilih : 
+[Mengurutkan Kegiatan]
+Pilihan Pengurutan:
+1. Hari
+2. Waktu
+3. Judul (A-Z)
+4. Judul (Z-A)
+x. Batal
+Pilih : [!] Pilihan tidak valid!
+
+Daftar Kegiatan:
+- Data kegiatan belum tersedia!
+Menu:
+1. Tambah Kegiatan
+2. Ubah
+3. Cari
+4. Urutkan
+5. Hapus
+x. Keluar
+Pilih : 

@@ -1,0 +1,73 @@
+Daftar Kegiatan:
+- Data kegiatan belum tersedia!
+Menu:
+1. Tambah Kegiatan
+2. Ubah
+3. Cari
+4. Urutkan
+5. Hapus
+x. Keluar
+Pilih : 
+[Menambah Kegiatan]
+Judul (x Jika Batal) : Hari (Senin - Minggu, x Jika Batal) : Waktu (HH:mm, x Jika Batal) : Berhasil menambah kegiatan: [1] Olahraga Pagi | Hari: Jumat | Pukul: 06:00
+
+Daftar Kegiatan:
+[1] Olahraga Pagi | Hari: Jumat | Pukul: 06:00
+Menu:
+1. Tambah Kegiatan
+2. Ubah
+3. Cari
+4. Urutkan
+5. Hapus
+x. Keluar
+Pilih : 
+[Menambah Kegiatan]
+Judul (x Jika Batal) : Hari (Senin - Minggu, x Jika Batal) : Waktu (HH:mm, x Jika Batal) : Berhasil menambah kegiatan: [2] Rapat Koordinasi | Hari: Senin | Pukul: 09:00
+
+Daftar Kegiatan:
+[1] Olahraga Pagi | Hari: Jumat | Pukul: 06:00
+[2] Rapat Koordinasi | Hari: Senin | Pukul: 09:00
+Menu:
+1. Tambah Kegiatan
+2. Ubah
+3. Cari
+4. Urutkan
+5. Hapus
+x. Keluar
+Pilih : 
+[Mengubah Kegiatan]
+ID Kegiatan yang diubah (x Jika Batal) : Judul Baru (Kosongkan jika tidak ingin mengubah) : Hari Baru (Kosongkan jika tidak ingin mengubah) : Waktu Baru HH:mm (Kosongkan jika tidak ingin mengubah) : Berhasil mengubah kegiatan.
+
+Daftar Kegiatan:
+[1] Olahraga Pagi | Hari: Jumat | Pukul: 06:00
+[2] Rapat Koordinasi | Hari: Selasa | Pukul: 09:00
+Menu:
+1. Tambah Kegiatan
+2. Ubah
+3. Cari
+4. Urutkan
+5. Hapus
+x. Keluar
+Pilih : 
+[Mengurutkan Kegiatan]
+Pilihan Pengurutan:
+1. Hari
+2. Waktu
+3. Judul (A-Z)
+4. Judul (Z-A)
+x. Batal
+Pilih : Daftar Kegiatan (Terurut):
+[2] Rapat Koordinasi | Hari: Selasa | Pukul: 09:00
+[1] Olahraga Pagi | Hari: Jumat | Pukul: 06:00
+
+Daftar Kegiatan:
+[1] Olahraga Pagi | Hari: Jumat | Pukul: 06:00
+[2] Rapat Koordinasi | Hari: Selasa | Pukul: 09:00
+Menu:
+1. Tambah Kegiatan
+2. Ubah
+3. Cari
+4. Urutkan
+5. Hapus
+x. Keluar
+Pilih : 

@@ -1,0 +1,71 @@
+Daftar Tamu:
+- Data tamu belum tersedia!
+Menu:
+1. Daftarkan Tamu
+2. Cari
+3. Hapus
+x. Keluar
+Pilih : 
+[Mendaftarkan Tamu]
+Nama (x Jika Batal) : Tujuan Kunjungan (x Jika Batal) : Berhasil mendaftarkan tamu: [1] Andi | Tujuan: Konsultasi
+
+Daftar Tamu:
+[1] Andi | Tujuan: Konsultasi
+Menu:
+1. Daftarkan Tamu
+2. Cari
+3. Hapus
+x. Keluar
+Pilih : 
+[Mendaftarkan Tamu]
+Nama (x Jika Batal) : Tujuan Kunjungan (x Jika Batal) : Berhasil mendaftarkan tamu: [2] Budi Santoso | Tujuan: Meeting
+
+Daftar Tamu:
+[1] Andi | Tujuan: Konsultasi
+[2] Budi Santoso | Tujuan: Meeting
+Menu:
+1. Daftarkan Tamu
+2. Cari
+3. Hapus
+x. Keluar
+Pilih : 
+[Mendaftarkan Tamu]
+Nama (x Jika Batal) : Tujuan Kunjungan (x Jika Batal) : Berhasil mendaftarkan tamu: [3] Andi Wijaya | Tujuan: Kunjungan
+
+Daftar Tamu:
+[1] Andi | Tujuan: Konsultasi
+[2] Budi Santoso | Tujuan: Meeting
+[3] Andi Wijaya | Tujuan: Kunjungan
+Menu:
+1. Daftarkan Tamu
+2. Cari
+3. Hapus
+x. Keluar
+Pilih : 
+[Mencari Tamu]
+Nama (x Jika Batal) : Hasil Pencarian: "Andi"
+[1] Andi | Tujuan: Konsultasi
+[3] Andi Wijaya | Tujuan: Kunjungan
+
+Daftar Tamu:
+[1] Andi | Tujuan: Konsultasi
+[2] Budi Santoso | Tujuan: Meeting
+[3] Andi Wijaya | Tujuan: Kunjungan
+Menu:
+1. Daftarkan Tamu
+2. Cari
+3. Hapus
+x. Keluar
+Pilih : 
+[Menghapus Tamu]
+[ID Tamu] yang dihapus (x Jika Batal) : Berhasil menghapus tamu.
+
+Daftar Tamu:
+[1] Andi | Tujuan: Konsultasi
+[3] Andi Wijaya | Tujuan: Kunjungan
+Menu:
+1. Daftarkan Tamu
+2. Cari
+3. Hapus
+x. Keluar
+Pilih : 

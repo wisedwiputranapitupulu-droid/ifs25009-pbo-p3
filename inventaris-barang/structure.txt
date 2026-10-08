@@ -1,0 +1,19 @@
+inventaris-barang/
+  src/App.java
+  src/adapter/presenter/ItemPresenter.java
+  src/adapter/repository/InMemoryRepository.java
+  src/adapter/repository/ItemRepository.java
+  src/domain/entity/Item.java
+  src/domain/entity/SortOption.java
+  src/domain/exception/DomainException.java
+  src/domain/exception/EntityNotFoundException.java
+  src/domain/exception/ValidationException.java
+  src/domain/repository/IItemRepository.java
+  src/domain/repository/IRepository.java
+  src/framework/util/InputUtil.java
+  src/framework/view/ItemView.java
+  src/usecase/ItemUseCase.java
+  test-cases/TC-01.tc
+  test-cases/TC-02.tc
+  test-cases/TC-03.tc
+  test-cases/TC-04.tc

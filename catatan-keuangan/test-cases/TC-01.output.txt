@@ -1,0 +1,43 @@
+Daftar Transaksi:
+- Belum ada transaksi!
+Saldo: Rp 0
+Menu:
+1. Tambah Pemasukan
+2. Tambah Pengeluaran
+3. Cari
+4. Urutkan
+5. Lihat Saldo
+6. Hapus
+x. Keluar
+Pilih : 
+[Menambah Pemasukan]
+Keterangan (x Jika Batal) : Jumlah (x Jika Batal) : Berhasil menambah transaksi: [1] Gaji bulanan | Rp 5000000 | [Pemasukan]
+
+Daftar Transaksi:
+[1] Gaji bulanan | Rp 5000000 | [Pemasukan]
+Saldo: Rp 5000000
+Menu:
+1. Tambah Pemasukan
+2. Tambah Pengeluaran
+3. Cari
+4. Urutkan
+5. Lihat Saldo
+6. Hapus
+x. Keluar
+Pilih : 
+[Menambah Pengeluaran]
+Keterangan (x Jika Batal) : Jumlah (x Jika Batal) : Berhasil menambah transaksi: [2] Beli makan | Rp 25000 | [Pengeluaran]
+
+Daftar Transaksi:
+[1] Gaji bulanan | Rp 5000000 | [Pemasukan]
+[2] Beli makan | Rp 25000 | [Pengeluaran]
+Saldo: Rp 4975000
+Menu:
+1. Tambah Pemasukan
+2. Tambah Pengeluaran
+3. Cari
+4. Urutkan
+5. Lihat Saldo
+6. Hapus
+x. Keluar
+Pilih : 

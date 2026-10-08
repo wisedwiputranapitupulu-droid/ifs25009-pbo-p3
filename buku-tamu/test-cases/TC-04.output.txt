@@ -1,0 +1,48 @@
+Daftar Tamu:
+- Data tamu belum tersedia!
+Menu:
+1. Daftarkan Tamu
+2. Cari
+3. Hapus
+x. Keluar
+Pilih : 
+[Mendaftarkan Tamu]
+Nama (x Jika Batal) : 
+Daftar Tamu:
+- Data tamu belum tersedia!
+Menu:
+1. Daftarkan Tamu
+2. Cari
+3. Hapus
+x. Keluar
+Pilih : 
+[Mendaftarkan Tamu]
+Nama (x Jika Batal) : Tujuan Kunjungan (x Jika Batal) : 
+Daftar Tamu:
+- Data tamu belum tersedia!
+Menu:
+1. Daftarkan Tamu
+2. Cari
+3. Hapus
+x. Keluar
+Pilih : 
+[Mencari Tamu]
+Nama (x Jika Batal) : 
+Daftar Tamu:
+- Data tamu belum tersedia!
+Menu:
+1. Daftarkan Tamu
+2. Cari
+3. Hapus
+x. Keluar
+Pilih : 
+[Menghapus Tamu]
+[ID Tamu] yang dihapus (x Jika Batal) : 
+Daftar Tamu:
+- Data tamu belum tersedia!
+Menu:
+1. Daftarkan Tamu
+2. Cari
+3. Hapus
+x. Keluar
+Pilih : 

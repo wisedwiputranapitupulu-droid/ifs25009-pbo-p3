@@ -1,0 +1,19 @@
+kontak-teman/
+  src/App.java
+  src/adapter/presenter/ContactPresenter.java
+  src/adapter/repository/ContactRepository.java
+  src/adapter/repository/InMemoryRepository.java
+  src/domain/entity/Contact.java
+  src/domain/entity/SortOption.java
+  src/domain/exception/DomainException.java
+  src/domain/exception/EntityNotFoundException.java
+  src/domain/exception/ValidationException.java
+  src/domain/repository/IContactRepository.java
+  src/domain/repository/IRepository.java
+  src/framework/util/InputUtil.java
+  src/framework/view/ContactView.java
+  src/usecase/ContactUseCase.java
+  test-cases/TC-01.tc
+  test-cases/TC-02.tc
+  test-cases/TC-04.tc
+  test-cases/TC-14.tc

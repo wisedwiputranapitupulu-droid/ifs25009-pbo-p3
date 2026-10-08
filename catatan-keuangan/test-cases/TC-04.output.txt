@@ -1,0 +1,58 @@
+Daftar Transaksi:
+- Belum ada transaksi!
+Saldo: Rp 0
+Menu:
+1. Tambah Pemasukan
+2. Tambah Pengeluaran
+3. Cari
+4. Urutkan
+5. Lihat Saldo
+6. Hapus
+x. Keluar
+Pilih : 
+[Menambah Pemasukan]
+Keterangan (x Jika Batal) : Jumlah (x Jika Batal) : Berhasil menambah transaksi: [1] Bonus | Rp 1000000 | [Pemasukan]
+
+Daftar Transaksi:
+[1] Bonus | Rp 1000000 | [Pemasukan]
+Saldo: Rp 1000000
+Menu:
+1. Tambah Pemasukan
+2. Tambah Pengeluaran
+3. Cari
+4. Urutkan
+5. Lihat Saldo
+6. Hapus
+x. Keluar
+Pilih : 
+[Menambah Pengeluaran]
+Keterangan (x Jika Batal) : Jumlah (x Jika Batal) : Berhasil menambah transaksi: [2] Belanja | Rp 300000 | [Pengeluaran]
+
+Daftar Transaksi:
+[1] Bonus | Rp 1000000 | [Pemasukan]
+[2] Belanja | Rp 300000 | [Pengeluaran]
+Saldo: Rp 700000
+Menu:
+1. Tambah Pemasukan
+2. Tambah Pengeluaran
+3. Cari
+4. Urutkan
+5. Lihat Saldo
+6. Hapus
+x. Keluar
+Pilih : 
+[Menghapus Transaksi]
+[ID Transaksi] yang dihapus (x Jika Batal) : Berhasil menghapus transaksi.
+
+Daftar Transaksi:
+[1] Bonus | Rp 1000000 | [Pemasukan]
+Saldo: Rp 1000000
+Menu:
+1. Tambah Pemasukan
+2. Tambah Pengeluaran
+3. Cari
+4. Urutkan
+5. Lihat Saldo
+6. Hapus
+x. Keluar
+Pilih : 

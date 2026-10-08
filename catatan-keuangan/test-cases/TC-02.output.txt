@@ -1,0 +1,100 @@
+Daftar Transaksi:
+- Belum ada transaksi!
+Saldo: Rp 0
+Menu:
+1. Tambah Pemasukan
+2. Tambah Pengeluaran
+3. Cari
+4. Urutkan
+5. Lihat Saldo
+6. Hapus
+x. Keluar
+Pilih : 
+[Menambah Pemasukan]
+Keterangan (x Jika Batal) : Jumlah (x Jika Batal) : Berhasil menambah transaksi: [1] Freelance | Rp 1500000 | [Pemasukan]
+
+Daftar Transaksi:
+[1] Freelance | Rp 1500000 | [Pemasukan]
+Saldo: Rp 1500000
+Menu:
+1. Tambah Pemasukan
+2. Tambah Pengeluaran
+3. Cari
+4. Urutkan
+5. Lihat Saldo
+6. Hapus
+x. Keluar
+Pilih : 
+[Menambah Pengeluaran]
+Keterangan (x Jika Batal) : Jumlah (x Jika Batal) : Berhasil menambah transaksi: [2] Transport | Rp 50000 | [Pengeluaran]
+
+Daftar Transaksi:
+[1] Freelance | Rp 1500000 | [Pemasukan]
+[2] Transport | Rp 50000 | [Pengeluaran]
+Saldo: Rp 1450000
+Menu:
+1. Tambah Pemasukan
+2. Tambah Pengeluaran
+3. Cari
+4. Urutkan
+5. Lihat Saldo
+6. Hapus
+x. Keluar
+Pilih : 
+[Mencari Transaksi]
+Kata Kunci (x Jika Batal) : Hasil Pencarian: "Freelance"
+[1] Freelance | Rp 1500000 | [Pemasukan]
+
+Daftar Transaksi:
+[1] Freelance | Rp 1500000 | [Pemasukan]
+[2] Transport | Rp 50000 | [Pengeluaran]
+Saldo: Rp 1450000
+Menu:
+1. Tambah Pemasukan
+2. Tambah Pengeluaran
+3. Cari
+4. Urutkan
+5. Lihat Saldo
+6. Hapus
+x. Keluar
+Pilih : 
+[Mengurutkan Transaksi]
+Pilihan Pengurutan:
+1. Jumlah (Terbesar)
+2. Jumlah (Terkecil)
+3. Pemasukan Dulu
+4. Pengeluaran Dulu
+x. Batal
+Pilih : Daftar Transaksi (Terurut):
+[2] Transport | Rp 50000 | [Pengeluaran]
+[1] Freelance | Rp 1500000 | [Pemasukan]
+Saldo: Rp 1450000
+
+Daftar Transaksi:
+[1] Freelance | Rp 1500000 | [Pemasukan]
+[2] Transport | Rp 50000 | [Pengeluaran]
+Saldo: Rp 1450000
+Menu:
+1. Tambah Pemasukan
+2. Tambah Pengeluaran
+3. Cari
+4. Urutkan
+5. Lihat Saldo
+6. Hapus
+x. Keluar
+Pilih : 
+Saldo saat ini: Rp 1450000
+
+Daftar Transaksi:
+[1] Freelance | Rp 1500000 | [Pemasukan]
+[2] Transport | Rp 50000 | [Pengeluaran]
+Saldo: Rp 1450000
+Menu:
+1. Tambah Pemasukan
+2. Tambah Pengeluaran
+3. Cari
+4. Urutkan
+5. Lihat Saldo
+6. Hapus
+x. Keluar
+Pilih : 
